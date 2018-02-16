@@ -1,1 +1,8 @@
-
+img{
+ width:500px;
+}
+.line2{
+  display:inline;
+   
+}
+body{background-color: turquoise}
